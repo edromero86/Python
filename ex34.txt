@@ -1,0 +1,27 @@
+animals = ['bear', 'tiger', 'penguin', 'zebra']
+
+bear = animals[0]
+
+
+# 'ordinal' we call this ordinal because they indicate an ordering of things.
+
+# 'cardinal' we call this cardinal because you can pick at random, so there needs to be a 0 element.
+
+
+Remember: 
+
+ordinal == ordered, 1st
+cardinal == cards at random, 0
+
+
+
+
+
+
+
+
+
+
+
+
+
